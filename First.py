@@ -1,1 +1,2 @@
 print("Salom")
+print("Dunyo")
