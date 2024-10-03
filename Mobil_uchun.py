@@ -1,0 +1,1 @@
+print("Bu mobil dastur uchun")
